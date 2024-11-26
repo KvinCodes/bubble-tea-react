@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Bubble Tea 🍵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+¡Bienvenido a **Bubble Tea**! Este es un proyecto de práctica diseñado para promocionar un nuevo producto de té helado.
+El sitio está enfocado en describir al público los diferentes sabores disponibles, utilizando un diseño limpio y atractivo.
 
-## Available Scripts
+## 🚀 Descripción
 
-In the project directory, you can run:
+**Bubble Tea** es una landing page responsiva desarrollada como ejercicio práctico. 
+Su objetivo principal es mostrar de manera clara y estética los sabores de té helado disponibles, atrayendo la atención de los usuarios con un diseño moderno y amigable.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🛠️ Tecnologías Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React.js**: Framework principal para la construcción de la interfaz.
+- **Tailwind CSS**: Framework de CSS para un diseño rápido y responsivo.
+- **Font Awesome**: Biblioteca de iconos para mejorar la experiencia visual.
+- **Google Fonts**: Fuentes utilizadas para mejorar la tipografía del diseño.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📂 Estructura del Proyecto
 
-### `npm run build`
+El sitio consta de una sola página (landing page), dividida en componentes individuales para una mejor organización y reutilización del código. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Componentes Clave:
+- **Encabezado (Header):** Incluye el logo y la navegación.
+- **Sección de Presentación:** Breve descripción del producto principal.
+- **Galería de Sabores:** Muestra los diferentes sabores con imágenes y descripciones.
+- **Pie de Página (Footer):** Contiene enlaces y créditos visuales.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ Instrucciones de Instalación y Uso
 
-### `npm run eject`
+### Instrucciones de Instalación y Uso
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Asegúrate de tener instalado **Node.js** y **npm** (Node Package Manager) en tu sistema. 
+2. Clona este repositorio ejecutando en tu terminal: 
+   ```bash
+   git clone https://github.com/KvinCodes/bubble-tea-react.git
+   
+3. Accede al directorio del proyecto con:
+   ```bash
+   cd bubble-tea-react
+   
+4. Inicia el servidor de desarrollo usando:
+   ```bash
+   npm start
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5. Abre tu navegador en http://localhost:3000 para ver el sitio en acción.
