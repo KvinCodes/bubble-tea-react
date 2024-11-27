@@ -1,4 +1,4 @@
-# Bubble Tea 🍵
+# Bubble Tea 🧋
 
 ¡Bienvenido a **Bubble Tea**! Este es un proyecto de práctica diseñado para promocionar un nuevo producto de té helado.
 El sitio está enfocado en describir al público los diferentes sabores disponibles, utilizando un diseño limpio y atractivo.
